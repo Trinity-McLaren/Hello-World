@@ -1,2 +1,3 @@
 # Hello-World
-idk what this is
+
+I have no idea what i am doing, i am just trying to follow this frustrating tutorial.
